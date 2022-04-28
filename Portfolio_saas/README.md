@@ -1,0 +1,1 @@
+redirect to https://kathijashahila.github.io/Portfolio_saas/dist
